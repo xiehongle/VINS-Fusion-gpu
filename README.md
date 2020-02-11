@@ -1,5 +1,6 @@
 # VINS-Fusion-gpu
 This repository is a version of VINS-Fusion with GPU acceleration. It can run on Nvidia TX2 in real-time. 
+From: https://zhuanlan.zhihu.com/p/105978076
 ## 1. Prerequisites  
 The essential software environment is same as VINS-Fusion. Besides, it requires OpenCV cuda version.(Only test it on OpenCV 3.4.1).
 ## 2. Usage
